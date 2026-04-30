@@ -4,8 +4,9 @@
 
 Unmanned Aerial Systems (UAS) are standard tools for infrastructure inspection. However, fully autonomous flights are often restricted by regulatory constraints. This framework allows human pilots to maintain manual control of the drone while providing **Augmented Reality (AR) visual guidance** and **real-time 3D inspection quality monitoring**. This ensures complex pre-planned trajectories are executed accurately, resulting in high-quality data for Structure-from-Motion (SfM) 3D reconstruction.
 
-**<img width="740" height="232" alt="Complete user interface" src="https://github.com/user-attachments/assets/a6064249-47f1-492e-9df9-b97cebc6e1ef" />
-**---
+<img width="740" height="232" alt="Complete user interface" src="https://github.com/user-attachments/assets/a6064249-47f1-492e-9df9-b97cebc6e1ef" />
+
+---
 
 ## Key Features
 
